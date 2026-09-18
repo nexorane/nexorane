@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm nexorane</h1>
-<h3 align="center">A passionate developer and reverse engineer</h3>
+## Hello there 👋 I'm nexorane!
+
+🌱 I’m currently playing with reverse engineering
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nexorane&hide_rank=true&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=nexorane&hide_rank=true&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
+
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nexorane&layout=compact&langs_count=6&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api/top-langs?username=nexorane&layout=compact&langs_count=6&theme=github_dark_dimmed)
 
 
 <h3 align="left">Languages and Tools:</h3>
